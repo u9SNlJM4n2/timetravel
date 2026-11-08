@@ -4,7 +4,7 @@ make a new folder named "data" then inside 2 new folders named "gw" and "world_a
 
 place dat files inside
 
-open terminal and run the python file (parsers only!)
+open terminal and run the python file (run the parser file only, not the report)
 
 it will make "output" folder where the html reports will be located
 
