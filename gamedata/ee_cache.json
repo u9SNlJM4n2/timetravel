@@ -1,0 +1,266 @@
+{
+  "c1034": {
+    "code": "exc103401",
+    "name": "Star Extinction",
+    "stat_type": "cri",
+    "options": [
+      {
+        "option": 1,
+        "skill": 3,
+        "description": "When the enemy is defeated by Star Extinction, **extends buff durations** of the caster by 1 turn and grants an **extra turn**."
+      },
+      {
+        "option": 2,
+        "skill": 1,
+        "description": ""
+      },
+      {
+        "option": 3,
+        "skill": 1,
+        "description": ""
+      }
+    ]
+  },
+  "c1072": {
+    "code": "exc107201",
+    "name": "Queen's Keepsake",
+    "stat_type": "att_rate",
+    "options": [
+      {
+        "option": 1,
+        "skill": 1,
+        "description": "Increase damage dealt by Sever by 20%."
+      },
+      {
+        "option": 2,
+        "skill": 1,
+        "description": "Increase Sever's chance of inflicting --bleeding-- by 20%."
+      },
+      {
+        "option": 3,
+        "skill": 2,
+        "description": "After using Smash, the Health condition to activate Sever's **extra attack** changes to 75%."
+      }
+    ]
+  },
+  "c1087": {
+    "code": "exc108701",
+    "name": "Indomitable Faith",
+    "stat_type": "att_rate",
+    "options": [
+      {
+        "option": 1,
+        "skill": 1,
+        "description": "Increases Quickdraw's --burn-- effect chance by 25%."
+      },
+      {
+        "option": 2,
+        "skill": 3,
+        "description": "--Restricts-- the target for 2 turns when using Fatal Bullet."
+      },
+      {
+        "option": 3,
+        "skill": 3,
+        "description": "Has a 75% chance to --decrease Hit Chance-- of the target for 2 turns when using Fatal Bullet."
+      }
+    ]
+  },
+  "c1177": {
+    "code": "exc117701",
+    "name": "Primeval Diadem",
+    "stat_type": "att_rate",
+    "options": [
+      {
+        "option": 1,
+        "skill": 2,
+        "description": "Increases Combat Readiness increase effect of Guidance of Nature by an additional 10%."
+      },
+      {
+        "option": 2,
+        "skill": 2,
+        "description": "Increases damage dealt by Wings of Liberation by 20%."
+      },
+      {
+        "option": 3,
+        "skill": 3,
+        "description": "When using Blossoming Hope, the duration of ++increased Attack++ in increased to 3 turns."
+      }
+    ]
+  },
+  "c1178": {
+    "code": "exc117801",
+    "name": "Reaper's Cloak",
+    "stat_type": "att_rate",
+    "options": [
+      {
+        "option": 1,
+        "skill": 1,
+        "description": "Activates Final Deliverance as an extra attack even when performing a Dual Attack."
+      },
+      {
+        "option": 2,
+        "skill": 2,
+        "description": "Grants 20% **damage reduction** when attacked."
+      },
+      {
+        "option": 3,
+        "skill": 3,
+        "description": "**Increases Combat Readiness** of the casters by 50% when using Inescapable Demise."
+      }
+    ]
+  },
+  "c2007": {
+    "code": "exc200701",
+    "name": "Archdemon's Eye",
+    "stat_type": "att_rate",
+    "options": [
+      {
+        "option": 1,
+        "skill": 2,
+        "description": "At the start of battle and when revived by Dark Contract's effect, grants ++Archdemon's Might (Undispellable)++ (Increases Evasion by 70%. Increases damage dealt when attacking Light elemental enemies.) to the caster for 2 turns."
+      },
+      {
+        "option": 2,
+        "skill": 1,
+        "description": ""
+      },
+      {
+        "option": 3,
+        "skill": 1,
+        "description": ""
+      }
+    ]
+  },
+  "c2080": {
+    "code": "exc208001",
+    "name": "Aithernum Regnum",
+    "stat_type": "att_rate",
+    "options": [
+      {
+        "option": 1,
+        "skill": 3,
+        "description": "When defeating an enemy with Die, You Fly, inflicts **extinction** on the enemy."
+      },
+      {
+        "option": 2,
+        "skill": 1,
+        "description": ""
+      },
+      {
+        "option": 3,
+        "skill": 1,
+        "description": ""
+      }
+    ]
+  },
+  "c1007": {
+    "code": "exc100701",
+    "name": "Blade Insigna",
+    "stat_type": "att_rate",
+    "options": [
+      {
+        "option": 1,
+        "skill": 2,
+        "description": "**Increases Combat Readiness** of the caster by an additional 5% when using Dancing Blade."
+      },
+      {
+        "option": 2,
+        "skill": 3,
+        "description": "**Resets skill cooldown** when defeating an enemy with Blade Ascent."
+      },
+      {
+        "option": 3,
+        "skill": 3,
+        "description": "Grants ++increased Critical Hit Damage++ to the caster for 2 turns before the skill effect when using Blade Ascent."
+      }
+    ]
+  },
+  "c1142": {
+    "code": "exc114201",
+    "name": "Boss's Coat",
+    "stat_type": "att_rate",
+    "options": [
+      {
+        "option": 1,
+        "skill": 1,
+        "description": "**Increases Combat Readiness** of the caster by 15% when using Point-Blank Shot."
+      },
+      {
+        "option": 2,
+        "skill": 2,
+        "description": "At the start of the first battle, grants ++stealth++ to the caster for 2 turn."
+      },
+      {
+        "option": 3,
+        "skill": 2,
+        "description": "Increases damage dealt by Time Bomb by 10% and attacks the enemy with the highest Attack."
+      }
+    ]
+  },
+  "c1038": {
+    "code": "exc103801",
+    "name": "Sealed Energy",
+    "stat_type": "att_rate",
+    "options": [
+      {
+        "option": 1,
+        "skill": 1,
+        "description": "Increases damage dealt by Dark Shadow by 20%."
+      },
+      {
+        "option": 2,
+        "skill": 2,
+        "description": "++Increases Attack++ of the caster for 2 turns when using Encroach."
+      },
+      {
+        "option": 3,
+        "skill": 2,
+        "description": "Increases damage dealt by Encroach by 20%."
+      }
+    ]
+  },
+  "c2020": {
+    "code": "exc202001",
+    "name": "The Watcher's Monocle",
+    "stat_type": "speed",
+    "options": [
+      {
+        "option": 1,
+        "skill": 2,
+        "description": "**Decreases Combat Readiness** of all enemies by 20% when using Quickfire."
+      },
+      {
+        "option": 2,
+        "skill": 3,
+        "description": "Grants ++skill nullifier++ once to the caster when using Finishing Shot."
+      },
+      {
+        "option": 3,
+        "skill": 3,
+        "description": "**Increases Hit Chance** of Finishing Shot by 50%."
+      }
+    ]
+  },
+  "c2071": {
+    "code": "exc207101",
+    "name": "\t  Cloud-Veiled Crimson Moon",
+    "stat_type": "att_rate",
+    "options": [
+      {
+        "option": 1,
+        "skill": 3,
+        "description": "Damage dealt by Quixotic Crescent increases in proportional to the target’s injuries."
+      },
+      {
+        "option": 2,
+        "skill": 1,
+        "description": ""
+      },
+      {
+        "option": 3,
+        "skill": 1,
+        "description": ""
+      }
+    ]
+  }
+}
