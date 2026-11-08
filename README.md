@@ -8,4 +8,4 @@ open terminal and run the python file (parsers only!)
 
 it will make "output" folder where the html reports will be located
 
-note: dont be rash
+note: this is only a proof of concept, but this gotta be fixed asap, maybe an obfuscation/encryption, or locking it to server only
